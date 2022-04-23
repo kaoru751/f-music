@@ -1,0 +1,25 @@
+{
+  "name": "f-music",
+  "version": "1.0.0",
+  "description": "this project is to practice api, ssa moreover it's a gift to someone special  to me. i hope you like it!",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "handlebars": "^4.7.7",
+    "jquery": "^3.6.0",
+    "semantic-ui-css": "^2.4.1",
+    "vanilla-router": "^1.2.8"
+  }
+}
